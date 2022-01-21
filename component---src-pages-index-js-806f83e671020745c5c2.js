@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknmnithinkrishna_me=self.webpackChunknmnithinkrishna_me||[]).push([[678],{7704:function(n,e,t){t.r(e);var i=t(7294);e.default=function(){return i.createElement("div",null,i.createElement("h1",null,"Test"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-806f83e671020745c5c2.js.map
